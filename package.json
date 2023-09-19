@@ -1,0 +1,24 @@
+{
+  "name": "js-hh-equality-of-values",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "ex-1.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techupth/js-hh-equality-of-values.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techupth/js-hh-equality-of-values/issues"
+  },
+  "homepage": "https://github.com/techupth/js-hh-equality-of-values#readme",
+  "dependencies": {
+    "vitest": "^0.32.4"
+  }
+}
